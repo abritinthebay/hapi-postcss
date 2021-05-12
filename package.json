@@ -29,7 +29,7 @@
     "@hapi/hoek": "^7.1.0",
     "@hapi/inert": "^5.2.0",
     "@hapi/joi": "^15.0.3",
-    "postcss": "^7.0.17"
+    "postcss": "^8.2.10"
   },
   "devDependencies": {
     "eslint": "^5.16.0"
